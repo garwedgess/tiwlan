@@ -1,0 +1,10 @@
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/compat/compat.ko
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/compat/compat_firmware_class.ko
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/net/wireless/cfg80211.ko
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/net/mac80211/mac80211.ko
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/drivers/net/wireless/wl12xx/wl12xx.ko
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/drivers/net/wireless/wl12xx/wl12xx_spi.ko
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/drivers/net/wireless/wl12xx/wl12xx_sdio.ko
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/drivers/net/wireless/wl1251/wl1251.ko
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/drivers/net/wireless/wl1251/wl1251_spi.ko
+kernel//home/gar/android/kernel-tools/tiwlan/compat-wireless-wl12xx/drivers/net/wireless/wl1251/wl1251_sdio.ko
